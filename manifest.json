@@ -1,0 +1,16 @@
+{
+  "name": "おうち家計簿",
+  "short_name": "家計簿",
+  "description": "みのあのおうち家計簿アプリ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1117",
+  "theme_color": "#0F1117",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f4b0.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
